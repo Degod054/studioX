@@ -1,6 +1,6 @@
 @font-face {
 	font-family: '8Bit';
-	src: url('https://toby.fangamer.com/assets/fonts/8bitOperatorPlus-Bold.woff') format('woff');
+	src: url(assets/8bitOperatorPlus-Bold.woff) format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
